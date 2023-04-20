@@ -1,0 +1,116 @@
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+    text-align: left;
+    text-decoration: none;
+    background-color: lightyellow;
+  }
+  
+  h2 {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+    margin: 0 0 20px 0;
+  }
+  
+  ol {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 20px;
+    test-align: center;
+  }
+
+  ul {
+    text-align: center;
+  }
+  
+  #edu {
+    color: red;
+  }
+  
+  #exp {
+    color: blue;
+  }
+  
+  #ski {
+    color: green;
+  }
+  
+  .edu-list li {
+    color: red;
+  }
+  
+  .exp-list li {
+    color: blue;
+  }
+  
+  .ski-list li {
+    color: green;
+  }
+  
+  .signature {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 10;
+  }
+  
+  .portrait {
+    height: 150px;
+    margin: 20px 0;
+  }
+  
+  a {
+    color: #333;
+    text-decoration: underline;
+  }
+  
+  a:hover {
+    color: #666;
+    text-decoration: none;
+  }
+  
+  #top {
+    float: left;
+  }
+  
+  .background-image {
+    background-image: url("your-image.jpg");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  #viz1681718629460, iframe {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+  }
+  
